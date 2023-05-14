@@ -19,7 +19,7 @@
    />
   </a>
   
-<a href="" target="blank">
+<a href="https://www.linkedin.com/in/mahmoud-ghanem-3838831ba" target="blank">
   <img 
        align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
