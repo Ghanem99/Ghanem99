@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on developing projects using laravel.
 - 🌱 I’m currently learning advanced topics in laravel & design patterns.
-- 👯 I’m looking to collaborate on solving bussiness problems through coding.
-- 💬 Ask me about backend & bussiness development.
+- 👯 I’m looking to collaborate on solving business problems through coding.
+- 💬 Ask me about backend & business development.
 - 📫 How to reach me: moghanem345@gmail.com
 
 <h3 align="left">Connect with me:</h3>
