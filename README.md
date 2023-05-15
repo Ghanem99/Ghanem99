@@ -55,6 +55,15 @@
    />
 </a>
   
+<a href="https://leetcode.com/moghanem345/" target="blank">
+  <img 
+       align="center"
+       src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"
+       alt="Mahmoud Ghanem"
+       height="40" width="40"
+   />
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
