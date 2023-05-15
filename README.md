@@ -94,7 +94,7 @@
   </a>
   
   <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="Jira" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="Jira" width="65" height="40"/>
   </a>
  
 </p>
