@@ -88,6 +88,10 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=oROcPah5ues6&format=png" alt="Jira" width="40" height="40"/>
+  </a>
  
 </p>
 
