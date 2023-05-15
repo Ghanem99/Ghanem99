@@ -46,6 +46,15 @@
    />
 </a>
   
+ <a href="https://codeforces.com/profile/Ghaanem" target="blank">
+  <img 
+       align="center"
+       src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=avif&w=256"
+       alt="Mahmoud Ghanem"
+       height="40" width="40"
+   />
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
