@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on developing projects using laravel.
 - 🌱 I’m currently learning advanced topics in laravel.
-- 📚 I'm currently reading about desing patterns and microservices.
+- 📚 I'm currently reading about design patterns and microservices.
 - 👯 I’m looking to collaborate on solving business problems through coding.
 - 💬 Ask me about backend & business development.
 - 📫 How to reach me: moghanem345@gmail.com
