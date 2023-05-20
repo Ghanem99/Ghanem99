@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
 - 👨‍💻 I’m currently working on developing projects using laravel.
-- 🌱 I’m currently learning advanced topics in laravel.
+- 🌱 I’m currently learning about testing and deployment in laravel.
 - 📚 I'm currently reading about design patterns and microservices.
 - 👯 I’m looking to collaborate on solving business problems through coding.
 - 💬 Ask me about backend & business development.
