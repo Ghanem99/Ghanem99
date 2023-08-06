@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
-- 👨‍💻 I’m currently working on developing projects using laravel.
-- 📚 I’m currently learning about testing and deployment, and reading about design patterns and microservices.
-- 👯 I’m looking to collaborate on solving business problems through coding.
-- 💬 Ask me about backend & business development.
-- 📫 How to reach me: moghanem345@gmail.com
+I am a backend developer with a strong passion for working on projects using Laravel. Currently, I am focusing on learning about testing and deployment, while also exploring design patterns and microservices through my readings. I am actively seeking opportunities to collaborate on solving business problems through coding. Feel free to ask me anything related to backend and business development. You can reach me at: moghanem345@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
