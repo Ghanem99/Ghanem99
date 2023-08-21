@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
-I am a dedicated backend developer who is eager to acquire knowledge in various technologies that contribute to the success of a business. I have a strong affinity for fitness and sports in addition to my current focus on developing projects using Laravel. Currently, I am expanding my skills in testing and deployment while immersing myself in studying design patterns and microservices. I am seeking collaborative opportunities to tackle business challenges through coding. Feel free to inquire about backend and business development. 
-You can reach me at moghanem345@gmail.com
+This is Mahmoud,
+
+Passionate gym enthusiast and boxing lover who enjoys pushing physical limits and achieving personal goals. Willing to put in hard work and discipline to be the best version of myself.
+
+Also, a dedicated coder who loves solving complex problems and constantly learning new things.
+
+Firm believer in the power of religion and spirituality to bring peace and balance to life.
+
+A driven entrepreneur who is willing to take risks and create opportunities to succeed in the business world. m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
