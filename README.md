@@ -9,7 +9,7 @@ Also, a dedicated coder who loves solving complex problems and constantly learni
 
 Firm believer in the power of religion and spirituality to bring peace and balance to life.
 
-A driven entrepreneur who is willing to take risks and create opportunities to succeed in the business world. m
+A driven entrepreneur who is willing to take risks and create opportunities to succeed in the business world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
