@@ -3,13 +3,8 @@
 
 This is Mahmoud,
 
-Passionate gym enthusiast and boxing lover who enjoys pushing physical limits and achieving personal goals. Willing to put in hard work and discipline to be the best version of myself.
-
-Also, a dedicated coder who loves solving complex problems and constantly learning new things.
-
-Firm believer in the power of religion and spirituality to bring peace and balance to life.
-
-A driven entrepreneur who is willing to take risks and create opportunities to succeed in the business world.
+Highly motivated computer science student with a passion for problem-solving, business, coding, sports, and entrepreneurship. Consistently seeking opportunities to apply technical expertise to develop innovative
+solutions and drive business growth. Thrives in fast-paced environments, adapting quickly to emerging technologies and industry trends. Excellent teamwork and communication abilities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
