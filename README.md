@@ -3,8 +3,8 @@
 
 This is Mahmoud,
 
-<h2>Highly motivated computer science student with a passion for problem-solving, business, coding, sports, and entrepreneurship. Consistently seeking opportunities to apply technical expertise to develop innovative
-solutions and drive business growth. Thrives in fast-paced environments, adapting quickly to emerging technologies and industry trends. Excellent teamwork and communication abilities.</h2>
+<h3 style="alig:center">Highly motivated computer science student with a passion for problem-solving, business, coding, sports, and entrepreneurship. Consistently seeking opportunities to apply technical expertise to develop innovative
+solutions and drive business growth. Thrives in fast-paced environments, adapting quickly to emerging technologies and industry trends. Excellent teamwork and communication abilities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
