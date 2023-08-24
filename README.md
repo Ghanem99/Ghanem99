@@ -3,7 +3,9 @@
 
 This is Mahmoud,
 
-<p style="color: #003366;
+<style>
+    .summary {
+      color: #003366;
       background-color: #cce5ff;
       padding: 10px;
       border: 1px solid #003366;
@@ -11,8 +13,11 @@ This is Mahmoud,
       font-family: Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
-      text-align: center;"
-  >Highly motivated computer science student with a passion for problem-solving, business, coding, sports, and entrepreneurship. Consistently seeking opportunities to apply technical expertise to develop innovative
+      text-align: center;
+    }
+  </style>
+  
+<p class="summary">Highly motivated computer science student with a passion for problem-solving, business, coding, sports, and entrepreneurship. Consistently seeking opportunities to apply technical expertise to develop innovative
 solutions and drive business growth. Thrives in fast-paced environments, adapting quickly to emerging technologies and industry trends. Excellent teamwork and communication abilities.</p>
 
 <h3 align="left">Connect with me:</h3>
