@@ -16,6 +16,4 @@ I work closely with clients, developers, and designers to clarify requirements, 
 
 **Tools:** Jira, ClickUp, Notion, Trello, Slack, Google Workspace
 
-I'm currently exploring practical ways to use automation and AI to improve project management workflows and team productivity.
-
 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
